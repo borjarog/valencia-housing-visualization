@@ -1,0 +1,5 @@
+raw-data/
+*.rda
+*.RData
+*.qgz
+*.Rhistory
