@@ -57,7 +57,6 @@ We followed the **seven phases of data visualization**:
 
 ## 🧾 Main Insights
 - **Central premium**: central neighborhoods are the most expensive and oldest.  
-- **Quality paradox**: properties with higher cadastral quality (lower numeric value) tend to be more expensive.  
 - **Transport effect**: prices increase near metro stations and the city center.  
 - **Clustering**: neighborhoods can be grouped into **exclusive, emerging, and economic** zones.  
 
