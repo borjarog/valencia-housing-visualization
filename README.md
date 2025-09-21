@@ -9,15 +9,17 @@ The goal was to explore key questions about **housing prices, quality, age of pr
 
 ## 📂 Project Structure
 
+```text
 valencia-housing-visualization/
-├─ dashboard_tableau/ # Tableau dashboard (.twb, .pdf, showcase images)
-├─ data/ # Processed datasets
-├─ graphs/ # Static graphs generated in notebooks
-├─ raw-data/ # Raw original datasets (ignored in .gitignore)
-├─ src/ # Python scripts for preprocessing and analysis
+├─ dashboard_tableau/                  # Tableau dashboard (.twb, .pdf, showcase images)
+├─ data/                               # Processed datasets
+├─ graphs/                             # Static graphs generated in notebooks
+├─ raw-data/                           # Raw original datasets (ignored in .gitignore)
+├─ src/                                # Python scripts for preprocessing and analysis
 ├─ real_estate_analysis_valencia.ipynb # Main Jupyter notebook
-├─ requirements.txt # Dependencies
-└─ README.md # Project documentation
+├─ requirements.txt                    # Dependencies
+└─ README.md                           # Project documentation
+```
 
 ---
 
