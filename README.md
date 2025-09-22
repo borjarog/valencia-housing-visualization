@@ -1,6 +1,7 @@
 # 🏙️ Valencia Housing Market Visualization
 
 ![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
+![R](https://img.shields.io/badge/language-R-blue)
 ![Jupyter](https://img.shields.io/badge/tool-Jupyter-orange?logo=jupyter)
 ![Tableau](https://img.shields.io/badge/viz-Tableau-8e44ad?logo=tableau)
 
@@ -8,22 +9,6 @@ This project analyzes the real estate market in the city of Valencia using **dat
 The goal was to explore key questions about **housing prices, quality, age of properties, and geographical distribution** by transforming raw datasets into clear and interactive insights.
 
 > 📊 Built with Python (pandas, plotly, geopandas, shapely), Tableau, and R.
-
----
-
-## 📂 Project Structure
-
-```text
-valencia-housing-visualization/
-├─ dashboard_tableau/                  # Tableau dashboard (.twb, .pdf, showcase images)
-├─ data/                               # Processed datasets
-├─ graphs/                             # Static graphs generated in notebooks
-├─ raw-data/                           # Raw original datasets (ignored in .gitignore)
-├─ src/                                # Python scripts for preprocessing and analysis
-├─ real_estate_analysis_valencia.ipynb # Main Jupyter notebook
-├─ requirements.txt                    # Dependencies
-└─ README.md                           # Project documentation
-```
 
 ---
 
@@ -64,6 +49,21 @@ We followed the **seven phases of data visualization**:
 - **Transport effect**: prices increase near metro stations and the city center.  
 - **Clustering**: neighborhoods can be grouped into **exclusive, emerging, and economic** zones.  
 
+---
+
+## 📂 Project Structure
+
+```text
+valencia-housing-visualization/
+├─ dashboard_tableau/                  # Tableau dashboard (.twb, .pdf, showcase images)
+├─ data/                               # Processed datasets
+├─ graphs/                             # Static graphs generated in notebooks
+├─ raw-data/                           # Raw original datasets (ignored in .gitignore)
+├─ src/                                # Python scripts for preprocessing and analysis
+├─ real_estate_analysis_valencia.ipynb # Main Jupyter notebook
+├─ requirements.txt                    # Dependencies
+└─ README.md                           # Project documentation
+```
 ---
 
 ## 🚀 How to Run
