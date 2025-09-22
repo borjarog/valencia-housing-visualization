@@ -1,5 +1,9 @@
 # 🏙️ Valencia Housing Market Visualization
 
+![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/tool-Jupyter-orange?logo=jupyter)
+![Tableau](https://img.shields.io/badge/viz-Tableau-8e44ad?logo=tableau)
+
 This project analyzes the real estate market in the city of Valencia using **data visualization, data mining, and interactive dashboards**.  
 The goal was to explore key questions about **housing prices, quality, age of properties, and geographical distribution** by transforming raw datasets into clear and interactive insights.
 
